@@ -1,2 +1,2 @@
-# CybersecurityBootcamp-Project-1-Work
-This folder encompasses all work which has been completed in a cybersecurity bootcamp. 
+# CybersecurityBootcamp-FinalProject
+This folder encompasses the Final Project and all work for it's completion. 
